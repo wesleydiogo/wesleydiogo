@@ -1,5 +1,7 @@
 # 🙋‍♂️ Olá, me chamo Wesley Diogo
+<p>
 Front-End Developer em constatante evolução, apaixonado por <b>programação</b> e <b>Design Gráfico</b>, busco sempre aprender e aprimorar meus conhecimentos.
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/wesleydiogo/">
@@ -15,9 +17,7 @@ Front-End Developer em constatante evolução, apaixonado por <b>programação</
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydiogo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-## 🚀 Tecnologias
-
-### 👨‍💻 Programação
+## 👨‍💻 Programação
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -35,11 +35,11 @@ Front-End Developer em constatante evolução, apaixonado por <b>programação</
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### ✍🏻 Design
+## ✍🏻 Design
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
-### 👾 Outras paixões
+## 👾 Outras paixões
 ![Blender3D](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
