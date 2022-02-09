@@ -1,6 +1,6 @@
 # 🙋‍♂️ Olá, me chamo Wesley Diogo
 <p>
-Front-End Developer em constatante evolução, apaixonado por <b>programação</b> e <b>Design Gráfico</b>, busco sempre aprender e aprimorar meus conhecimentos.
+Front-End Developer em constatante evolução, apaixonado por <b>Programação</b> e <b>Design Gráfico</b>, busco sempre aprender e aprimorar meus conhecimentos.
 </p>
 
 <p>
